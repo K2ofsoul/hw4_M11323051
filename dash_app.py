@@ -11,8 +11,8 @@ np.random.seed(42)
 drinks = ['Coke', 'Pepsi', 'Sprite', '7Up', 'Cappuccino', 'Espresso', 'Latte', 'Mocha']
 classes = list("ABCDEFGH")
 counts = [100, 200, 100, 400, 400, 200, 100, 100]
-amount_means = [150, 200, 200, 400, 700, 700, 800, 900]
-amount_stds = [20, 10, 10, 100, 10, 10, 300, 400]
+amount_means = [100, 200, 200, 400, 700, 700, 800, 900]
+amount_stds = [200, 10, 10, 100, 10, 10, 300, 400]
 quantity_ranges = [(500, 1000), (500, 1000), (500, 1000), (500, 1000),
                    (1, 500), (1, 500), (1, 500), (1, 500)]
 ranks = [8, 7, 6, 5, 4, 3, 2, 1]
